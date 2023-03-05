@@ -21,6 +21,10 @@ I played a significant role in this project and I received invaluable assistance
 
 I am delighted to share that our hard work and collaboration paid off, and we were thrilled to receive a high grade for this project 🥇
 
+## Weaknesses 😔
+
+While we had a lot of exciting ideas for this project, one shortcoming we encountered was not dedicating enough time to properly cleaning and organizing our repository before testing new features. In retrospect, we recognized the importance of thoroughly cleaning and structuring our work. This experience has taught me a valuable lesson that I can apply to future data analysis projects.
 
 
-*Spring 2022*
+
+*Done in Spring 2022 semester*
