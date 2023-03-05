@@ -2,6 +2,8 @@
 
 ❤️ This project was truly my *favorite* as it not only allowed me to explore my passion for music, but also made me a fan of data science and opened up a whole new world of discovery in this field. ❤️ 
 
+✍️ The report for this project can be found through the following link :  https://github.com/louiselize/SpotifyDataAnalysis/blob/main/PDF/SpotifyDataAnalysisReport_LIZE_AYOUB.pdf 
+
 ## Introduction
 
 As a music lover and data enthusiast, I was excited to dive into the vast amount of data collected by Spotify, a popular music streaming service with millions of users worldwide. In this project, I will use both supervised and unsupervised learning methods to classify songs into their respective genres, based on their audio features.
