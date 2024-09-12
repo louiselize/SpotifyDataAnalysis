@@ -2,7 +2,9 @@
 
 ❤️ This project was truly my *favorite* as it not only allowed me to explore my passion for music, but also made me a fan of data science and opened up a whole new world of discovery in this field. ❤️ 
 
-✍️ The report for this project can be found through the following link (in french) :  https://github.com/louiselize/SpotifyDataAnalysis/blob/main/PDF/SpotifyDataAnalysisReport_LIZE_AYOUB.pdf 
+✍️ The report for this project can be found and downloaded through the following links : 
+- English Version :  https://github.com/louiselize/SpotifyDataAnalysis/blob/main/PDF/ENGLISH_REPORT_LIZE_AYOUB.pdf 
+- French Version :  https://github.com/louiselize/SpotifyDataAnalysis/blob/main/PDF/FRENCH_REPORT_LIZE_AYOUB.pdf
 
 ## Introduction
 
